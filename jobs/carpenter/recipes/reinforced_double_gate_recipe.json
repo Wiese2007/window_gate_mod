@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 3,
+   "recipe_name": "i18n(window_gate_mod:jobs.carpenter.recipes.reinforced_double_gate_recipe.recipe_name)",
+   "description": "i18n(window_gate_mod:jobs.carpenter.recipes.reinforced_double_gate_recipe.description)",
+   "flavor": "i18n(window_gate_mod:jobs.carpenter.recipes.reinforced_double_gate_recipe.flavor)",
+   "portrait": "/window_gate_mod/entities/construction/reinforced_double_gate/reinforced_double_gate.png",
+   "workshop"    : "stonehearth:carpenter:workbench", 
+   "level_requirement": 1,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 3
+      }
+   ],
+   "produces": [
+      {
+         "item": "window_gate_mod:reinforced_double_gate"
+      }
+   ]
+}

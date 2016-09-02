@@ -1,0 +1,12 @@
+{
+   "craftable_recipes" : {
+      "building_parts" : {
+         "ordinal" : 4,
+         "recipes" : {
+            "dragon_gate" : {
+               "recipe" : "file(dragon_gate_recipe.json)"
+            }
+         }
+      }
+   }
+}

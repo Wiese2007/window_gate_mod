@@ -1,0 +1,48 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "type": "entity",
+   "components": {
+      "mob": {
+         "align_to_grid": [
+            "x"
+         ]
+      },
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(fenestra_medium_s.qb)"
+            ]
+         }
+      },
+      "stonehearth:fixture": {
+         "cursor": "stonehearth:cursors:create_window",
+         "margin": {
+            "left": 0,
+            "right": 0,
+            "top": 1,
+            "bottom": 1
+         },
+         "bounds": {
+            "min": { "x": -1, "y": 0 },
+            "max": { "x": 1, "y": 4 }
+         }
+      },
+      "stonehearth:portal": {
+         "cutter": [
+            {
+               "min": { "x": -1, "y": 0 },
+               "max": { "x": 1, "y": 4 }
+            }
+         ]
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(window_gate_mod:entities.construction.fenestra_medium_s.fenestra_medium_s_ghost.display_name)",
+         "description": "i18n(window_gate_mod:entities.construction.fenestra_medium_s.fenestra_medium_s_ghost.description)",
+         "icon": "file(fenestra_medium_s.png)",
+         "category": "window",
+         "material_tags": "wood portal crafted"
+      }
+   }
+}

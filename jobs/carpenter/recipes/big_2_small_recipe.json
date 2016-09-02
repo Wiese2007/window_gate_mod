@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 3,
+   "recipe_name": "i18n(Spiros_window_mod:jobs.carpenter.recipes.big_2_small_recipe.recipe_name)",
+   "description": "i18n(Spiros_window_mod:jobs.carpenter.recipes.big_2_small_recipe.description)",
+   "flavor": "i18n(Spiros_window_mod:jobs.carpenter.recipes.big_2_small_recipe.flavor)",
+   "portrait": "/Spiros_window_mod/entities/construction/big_2_small/big_2_small.png",
+   "workshop"    : "stonehearth:carpenter:workbench", 
+   "level_requirement": 0,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "Spiros_window_mod:big_2_small"
+      }
+   ]
+}

@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 3,
+   "recipe_name": "i18n(window_gate_mod:jobs.mason.recipes.fenestra_large_s_recipe.recipe_name)",
+   "description": "i18n(window_gate_mod:jobs.mason.recipes.fenestra_large_s_recipe.description)",
+   "flavor": "i18n(window_gate_mod:jobs.mason.recipes.fenestra_large_s_recipe.flavor)",
+   "portrait": "/window_gate_mod/entities/construction/fenestra_large_s/fenestra_large_s.png",
+   "workshop"    : "stonehearth:mason:workbench", 
+   "level_requirement": 0,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "window_gate_mod:fenestra_large_s"
+      }
+   ]
+}

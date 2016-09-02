@@ -1,0 +1,25 @@
+{
+   "type": "entity",
+   "mixins": [
+      "stonehearth:mixins:portals:single_door:ghost",
+      "stonehearth:mixins:placed_object"
+   ],
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(wooden_gate.qb)"
+            ]
+         }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(window_gate_mod:entities.construction.wooden_gate.wooden_gate_ghost.display_name)",
+         "description": "i18n(window_gate_mod:entities.construction.wooden_gate.wooden_gate_ghost.description)",
+         "icon": "file(wooden_gate.png)",
+         "category": "door",
+         "material_tags": "wood portal crafted"
+      }
+   }
+}

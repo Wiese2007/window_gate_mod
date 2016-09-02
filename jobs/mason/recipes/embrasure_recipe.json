@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 3,
+   "recipe_name": "i18n(Spiros_window_mod:jobs.mason.recipes.schiessscharte_recipe.recipe_name)",
+   "description": "i18n(Spiros_window_mod:jobs.mason.recipes.schiessscharte_recipe.description)",
+   "flavor": "i18n(Spiros_window_mod:jobs.mason.recipes.schiessscharte_recipe.flavor)",
+   "portrait": "/Spiros_window_mod/entities/construction/schiessscharte/schiessscharte.png",
+   "workshop"    : "stonehearth:mason:workbench", 
+   "level_requirement": 0,
+   "ingredients": [
+      {
+         "material": "stone resource",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "Spiros_window_mod:schiessscharte"
+      }
+   ]
+}

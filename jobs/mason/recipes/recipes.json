@@ -1,0 +1,45 @@
+{
+   "craftable_recipes" : {
+      "building_parts" : {
+         "ordinal" : 4,
+         "recipes" : {
+            "stonegate_b" : {
+               "recipe" : "file(stonegate_b_recipe.json)"
+            },
+            "stonegate_a" : {
+               "recipe" : "file(stonegate_a_recipe.json)"
+            },
+            "hexagon_large_s" : {
+               "recipe" : "file(hexagon_large_s_recipe.json)"
+            },
+            "hexagon_small_s" : {
+               "recipe" : "file(hexagon_small_s_recipe.json)"
+            },
+            "gothic_small_s" : {
+               "recipe" : "file(gothic_small_s_recipe.json)"
+            },
+            "gothic_large_s" : {
+               "recipe" : "file(gothic_large_s_recipe.json)"
+            },
+            "fenestra_small_s" : {
+               "recipe" : "file(fenestra_small_s_recipe.json)"
+            },
+            "fenestra_medium_s" : {
+               "recipe" : "file(fenestra_medium_s_recipe.json)"
+            },
+            "fenestra_large_s" : {
+               "recipe" : "file(fenestra_large_s_recipe.json)"
+            },
+            "big_1_s" : {
+               "recipe" : "file(big_1_s_recipe.json)"
+            },
+            "big_1_s_small" : {
+               "recipe" : "file(big_1_s_small_recipe.json)"
+            },
+            "embrasure" : {
+               "recipe" : "file(embrasure_recipe.json)"
+            }
+         }
+      }
+   }
+}

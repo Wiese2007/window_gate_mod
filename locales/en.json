@@ -1,0 +1,292 @@
+{
+   "jobs": {
+      "generic": {
+         "building_parts": "Building Parts"
+      },
+      "carpenter": {
+         "recipes": {
+            "wooden_gate_recipe": {
+               "recipe_name": "Wooden Gate",
+               "description": "A Door with a Grid",
+               "flavor": "Really!"
+            },
+            "wooden_double_gate_recipe": {
+               "recipe_name": "Wooden Double Gate",
+               "description": "A Door with a Grid",
+               "flavor": "Im innocent"
+            },
+            "reinforced_double_gate_recipe": {
+               "recipe_name": "Reinforced Double Door",
+               "description": "a reinforced Door",
+               "flavor": "You shall not PASS!!!"
+            },
+            "hexagon_small_w_recipe": {
+               "recipe_name": "Small Hexagon Window",
+               "description": "A Window with a Hexagon shape",
+               "flavor": "Why 4 edges, if i could have 6"
+            },
+            "hexagon_large_w_recipe": {
+               "recipe_name": "Large Hexagon Window",
+               "description": "A Window with a Hexagon shape",
+               "flavor": "Why 4 edges, if i could have 6"
+            },
+            "fenestra_small_w_recipe": {
+               "recipe_name": "Small Window",
+               "description": "2x3 Window",
+               "flavor": "I see you, but you dont see me"
+            },
+            "fenestra_large_w_recipe": {
+               "recipe_name": "Large Window",
+               "description": "3x5 Window",
+               "flavor": "I see you, but you dont see me"
+            },
+            "big_1_recipe": {
+               "recipe_name": "Big Window",
+               "description": "A Large Window",
+               "flavor": "Let the Light in"
+            },
+            "big_2__recipe": {
+               "recipe_name": "Dark Big Window",
+               "description": "A Large Window",
+               "flavor": "Let the Light in"
+            },
+            "shuttersblue_recipe": {
+               "recipe_name": "Blue shuttered Window",
+               "description": "With Gadgets",
+               "flavor": "A Window, really"
+            },
+            "big_1_small_recipe": {
+               "recipe_name": "Big Window",
+               "description": "A Large 4x4 Window",
+               "flavor": "Let the Light in"
+            },
+            "big_2_small_recipe": {
+               "recipe_name": "Dark Big Window",
+               "description": "A Large 4x4 Window",
+               "flavor": "Let the Light in"
+            }
+         }
+      },
+      "mason": {
+         "recipes": {
+         	"embrasure_recipe": {
+               "recipe_name": "Archaic",
+               "description": "a spoot for Archers",
+               "flavor": "I will shoot you!"
+            },
+            "stonegate_b_recipe": {
+               "recipe_name": "Bright Stone Gate",
+               "description": "A Door with a Grid",
+               "flavor": "Let me out!"
+            },
+            "stonegate_a_recipe": {
+               "recipe_name": "Dark Stone Gate",
+               "description": "A Door with a Grid",
+               "flavor": "Mercy!"
+            },
+            "big_1_s_recipe": {
+               "recipe_name": "Big Stone Window",
+               "description": "A Large Window",
+               "flavor": "Let the Light in"
+            },
+            "fenestra_small_s_recipe": {
+               "recipe_name": "Small Window",
+               "description": "2x3 Window",
+               "flavor": "I see you, but you dont see me"
+            },
+            "fenestra_medium_s_recipe": {
+               "recipe_name": "Medium Window",
+               "description": "2x4 Window",
+               "flavor": "I see you, but you dont see me"
+            },
+            "fenestra_large_s_recipe": {
+               "recipe_name": "Large Window",
+               "description": "3x5 Window",
+               "flavor": "I see you, but you dont see me"
+            },
+            "gothic_small_s_recipe": {
+               "recipe_name": "Small Gothic Window",
+               "description": "A Window with fancy stuff",
+               "flavor": "In Nomine Patris"
+            },
+            "gothic_large_s_recipe": {
+               "recipe_name": "Large Gothic Window",
+               "description": "A Window with fancy stuff",
+               "flavor": "In Nomine Patris"
+            },
+            "hexagon_small_s_recipe": {
+               "recipe_name": "Small Hexagon Window",
+               "description": "A Window with a Hexagon shape",
+               "flavor": "Why 4 edges, if i could have 6"
+            },
+            "hexagon_large_s_recipe": {
+               "recipe_name": "Large Hexagon Window",
+               "description": "A Window with a Hexagon shape",
+               "flavor": "Why 4 edges, if i could have 6"
+            },
+            "big_1_s_small_recipe": {
+               "recipe_name": "Big Stone Window",
+               "description": "A Large 4x4 Window",
+               "flavor": "Let the Light in"
+            }
+         }
+      },
+      "blacksmith": {
+         "recipes": {
+            "dragon_gate_recipe": {
+               "recipe_name": "Dragon Gate",
+               "description": "An awesome Gate",
+               "flavor": "Let me out!"
+            }
+         }
+      }
+   },
+   "entities": {
+      "construction": {
+         "dragon_gate": {
+            "dragon_gate_ghost": {
+               "description": "An awesome Gate",
+               "display_name": "Dragon Gate"
+            }
+         },
+         "embrasure": {
+         	"embrasure_ghost": {
+               "description": "a spoot for Archers",
+               "display_name": "Archaic"
+            }
+         },
+         "big_1_small": {
+            "big_1_small_ghost": {
+               "description": "A Large 4x4 Window",
+               "display_name": "Big Window"
+            }
+         },
+         "big_2_small": {
+            "big_2_small_ghost": {
+               "description": "A Large 4x4 Window",
+               "display_name": "Dark Big Window"
+            }
+         },
+         "shuttersblue": {
+            "shuttersblue_ghost": {
+               "description": "A Window with gadgets",
+               "display_name": "Blue Window"
+            }
+         },
+         "reinforced_double_gate": {
+            "reinforced_double_gate_ghost": {
+               "description": "an reinforced Door",
+               "display_name": "Reinforced Double Door"
+            }
+         },
+         "wooden_double_gate": {
+            "wooden_double_gate_ghost": {
+               "description": "A Door with a Grid",
+               "display_name": "Wooden Double Gate"
+            }
+         },
+         "wooden_gate": {
+            "wooden_gate_ghost": {
+               "description": "A Door with a Grid",
+               "display_name": "Wooden Gate"
+            }
+         },
+         "stonegate_a": {
+            "stonegate_a_ghost": {
+               "description": "A Door with a Grid",
+               "display_name": "Dark Stone Gate"
+            }
+         },
+         "stonegate_b": {
+            "stonegate_b_ghost": {
+               "description": "A Door with a Grid",
+               "display_name": "Bright Stone Gate"
+            }
+         },
+         "big_1": {
+            "big_1_ghost": {
+               "description": "A Large Window",
+               "display_name": "Big Window"
+            }
+         },
+         "big_1_s": {
+            "big_1_s_ghost": {
+               "description": "A Large Window",
+               "display_name": "Big Window"
+            }
+         },
+         "big_2": {
+            "big_2_ghost": {
+               "description": "A Large Window",
+               "display_name": "Dark Big Window"
+            }
+         },
+         "hexagon_small_w": {
+            "hexagon_small_w_ghost": {
+               "description": "A Window with a Hexagon shape",
+               "display_name": "Small Hexagon Window"
+            }
+         },
+         "hexagon_large_w": {
+            "hexagon_large_w_ghost": {
+               "description": "A Window with a Hexagon shape",
+               "display_name": "Large Hexagon Window"
+            }
+         },
+         "hexagon_small_s": {
+            "hexagon_small_s_ghost": {
+               "description": "A Window with a Hexagon shape",
+               "display_name": "Small Hexagon Window"
+            }
+         },
+         "hexagon_large_s": {
+            "hexagon_large_s_ghost": {
+               "description": "A Window with a Hexagon shape",
+               "display_name": "Large Hexagon Window"
+            }
+         },
+         "gothic_small_s": {
+            "gothic_small_s_ghost": {
+               "description": "A Window with fancy stuff",
+               "display_name": "Small Gothic Window"
+            }
+         },
+         "gothic_large_s": {
+            "gothic_large_s_ghost": {
+               "description": "A Window with fancy stuff",
+               "display_name": "Large Gothic Window"
+            }
+         },
+         "fenestra_small_w": {
+            "fenestra_small_w_ghost": {
+               "description": "2x3 Window",
+               "display_name": "Small Fenestra Window"
+            }
+         },
+         "fenestra_small_s": {
+            "fenestra_small_s_ghost": {
+               "description": "2x3 Window",
+               "display_name": "Small Fenestra Window"
+            }
+         },
+         "fenestra_medium_s": {
+            "fenestra_medium_s_ghost": {
+               "description": "2x4 Window",
+               "display_name": "Medium Fenestra Window"
+            }
+         },
+         "fenestra_large_s": {
+            "fenestra_large_s_ghost": {
+               "description": "3x5 Window",
+               "display_name": "Large Fenestra Window"
+            }
+         },
+         "big_1_s_small": {
+            "big_1_s_small_ghost": {
+               "description": "A Large Stone 4x4 Window",
+               "display_name": "Big Window"
+            }
+         }
+      }
+   }
+}

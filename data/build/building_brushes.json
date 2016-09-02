@@ -1,0 +1,31 @@
+{ 
+   "doors": {
+      "wood resource" : {
+         "entities": [
+            "window_gate_mod:reinforced_double_gate",
+            "window_gate_mod:wooden_gate",
+            "window_gate_mod:hexagon_small_w",
+            "window_gate_mod:hexagon_large_w",
+            "window_gate_mod:fenestra_small_w",
+            "window_gate_mod:big_2",
+            "window_gate_mod:big_1"
+         ]
+      },
+      "stone resource" : {
+         "entities": [
+            "window_gate_mod:dragon_gate",
+            "window_gate_mod:stonegate_a",
+            "window_gate_mod:stonegate_b",
+            "window_gate_mod:giant_test",
+            "window_gate_mod:hexagon_large_s",
+            "window_gate_mod:hexagon_small_s",
+            "window_gate_mod:gothic_small_s",
+            "window_gate_mod:gothic_large_s",
+            "window_gate_mod:fenestra_small_s",
+            "window_gate_mod:fenestra_medium_s",
+            "window_gate_mod:fenestra_large_s",
+            "window_gate_mod:big_1_s"
+         ]
+      }    
+   }
+}

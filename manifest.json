@@ -1,0 +1,45 @@
+{
+
+   "info" : {
+
+       "name" : "window_gate_mod",
+ 
+      "version" : 3
+
+   },
+
+   "default_locale": "en",
+
+   "aliases" : {
+      "wooden_double_gate" : "file(entities/construction/wooden_double_gate)",
+      "wooden_gate" : "file(entities/construction/wooden_gate)",
+      "dragon_gate" : "file(entities/construction/dragon_gate)",
+      "stonegate_b" : "file(entities/construction/stonegate_b)",
+      "stonegate_a" : "file(entities/construction/stonegate_a)",
+      "reinforced_double_gate" : "file(entities/construction/reinforced_double_gate)",
+      "hexagon_small_w" : "file(entities/construction/hexagon_small_w)",
+      "hexagon_large_w" : "file(entities/construction/hexagon_large_w)",
+      "hexagon_large_s" : "file(entities/construction/hexagon_large_s)",
+      "hexagon_small_s" : "file(entities/construction/hexagon_small_s)",
+      "gothic_small_s" : "file(entities/construction/gothic_small_s)",
+      "gothic_large_s" : "file(entities/construction/gothic_large_s)",
+      "fenestra_small_w" : "file(entities/construction/fenestra_small_w)",
+      "fenestra_small_s" : "file(entities/construction/fenestra_small_s)",
+      "fenestra_medium_s" : "file(entities/construction/fenestra_medium_s)",
+      "fenestra_large_s" : "file(entities/construction/fenestra_large_s)",
+      "big_1_s" : "file(entities/construction/big_1_s)",
+      "big_2" : "file(entities/construction/big_2)",
+      "big_1" : "file(entities/construction/big_1)",
+      "shuttersblue" : "file(entities/construction/shuttersblue)",
+      "embrasure" : "file(entities/construction/embrasure)",
+      "big_1_s_small" : "file(entities/construction/big_1_s_small)",
+      "big_2_small" : "file(entities/construction/big_2_small)",      
+      "big_1_small" : "file(entities/construction/big_1_small)"
+   },
+   "mixintos" : {
+      "stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",
+      "stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(jobs/blacksmith/recipes/recipes.json)",
+      "stonehearth/data/build/building_brushes.json": "file(data/build/building_brushes.json)",      
+      "stonehearth/jobs/mason/recipes/recipes.json" : "file(jobs/mason/recipes/recipes.json)"
+   }    
+}

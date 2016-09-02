@@ -1,0 +1,25 @@
+{
+   "type": "recipe",
+   "work_units": 3,
+   "recipe_name": "i18n(window_gate_mod:jobs.mason.recipes.stonegate_b_recipe.recipe_name)",
+   "description": "i18n(window_gate_mod:jobs.mason.recipes.stonegate_b_recipe.description)",
+   "flavor": "i18n(window_gate_mod:jobs.mason.recipes.stonegate_b_recipe.flavor)",
+   "portrait": "/window_gate_mod/entities/construction/stonegate_b/stonegate_b.png",
+   "workshop"    : "stonehearth:mason:workbench", 
+   "level_requirement": 3,
+   "ingredients": [
+      {
+         "uri": "stonehearth:resources:iron:ore",
+         "count": 2
+      },
+      {
+         "material": "stone resource",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "window_gate_mod:stonegate_b"
+      }
+   ]
+}
