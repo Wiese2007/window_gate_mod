@@ -27,6 +27,7 @@
       "fenestra_small_s" : "file(entities/construction/fenestra_small_s)",
       "fenestra_medium_s" : "file(entities/construction/fenestra_medium_s)",
       "fenestra_large_s" : "file(entities/construction/fenestra_large_s)",
+      "fenestra_large_w" : "file(entities/construction/fenestra_large_w)",
       "big_1_s" : "file(entities/construction/big_1_s)",
       "big_2" : "file(entities/construction/big_2)",
       "big_1" : "file(entities/construction/big_1)",
@@ -38,8 +39,7 @@
    },
    "mixintos" : {
       "stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",
-      "stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(jobs/blacksmith/recipes/recipes.json)",
-      "stonehearth/data/build/building_brushes.json": "file(data/build/building_brushes.json)",      
+      "stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(jobs/blacksmith/recipes/recipes.json)",   
       "stonehearth/jobs/mason/recipes/recipes.json" : "file(jobs/mason/recipes/recipes.json)"
    }    
 }

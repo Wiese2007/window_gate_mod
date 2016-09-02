@@ -1,0 +1,20 @@
+{
+   "type": "recipe",
+   "work_units": 3,
+   "recipe_name": "i18n(window_gate_mod:jobs.carpenter.recipes.fenestra_large_w_recipe.recipe_name)",
+   "description": "i18n(window_gate_mod:jobs.carpenter.recipes.fenestra_large_w_recipe.description)",
+   "flavor": "i18n(window_gate_mod:jobs.carpenter.recipes.fenestra_large_w_recipe.flavor)",
+   "portrait": "/window_gate_mod/entities/construction/fenestra_large_w/fenestra_large_w.png",
+   "workshop"    : "stonehearth:carpenter:workbench", 
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "window_gate_mod:fenestra_large_w"
+      }
+   ]
+}

@@ -6,7 +6,6 @@
    "flavor": "i18n(window_gate_mod:jobs.blacksmith.recipes.dragon_gate_recipe.flavor)",
    "portrait": "/window_gate_mod/entities/construction/dragon_gate/dragon_gate.png",
    "workshop"    : "stonehearth:blacksmith:workbench", 
-   "level_requirement": 6,
    "ingredients": [
       {
          "uri": "stonehearth:refined:gold_ingot",

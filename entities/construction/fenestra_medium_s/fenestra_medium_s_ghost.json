@@ -42,7 +42,7 @@
          "description": "i18n(window_gate_mod:entities.construction.fenestra_medium_s.fenestra_medium_s_ghost.description)",
          "icon": "file(fenestra_medium_s.png)",
          "category": "window",
-         "material_tags": "wood portal crafted"
+         "material_tags": "stone portal crafted"
       }
    }
 }

@@ -42,7 +42,7 @@
          "description": "i18n(window_gate_mod:entities.construction.hexagon_small_s.hexagon_small_s_ghost.description)",
          "icon": "file(hexagon_small_s.png)",
          "category": "window",
-         "material_tags": "wood portal crafted"
+         "material_tags": "stone portal crafted"
       }
    }
 }

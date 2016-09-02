@@ -5,7 +5,8 @@
       "stonehearth:entity_forms": {
          "iconic_form": "file(fenestra_large_w_iconic.json)",
          "ghost_form": "file(fenestra_large_w_ghost.json)",
-         "placeable_on_walls": true
+         "placeable_on_walls": true,
+         "hide_placement_ui" : true
       }
    },
    "entity_data": {

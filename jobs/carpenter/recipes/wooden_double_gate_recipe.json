@@ -6,7 +6,6 @@
    "flavor": "i18n(window_gate_mod:jobs.carpenter.recipes.wooden_double_gate_recipe.flavor)",
    "portrait": "/window_gate_mod/entities/construction/wooden_double_gate/wooden_double_gate.png",
    "workshop"    : "stonehearth:carpenter:workbench", 
-   "level_requirement": 3,
    "ingredients": [
       {
          "uri": "stonehearth:resources:iron:ore",

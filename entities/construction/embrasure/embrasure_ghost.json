@@ -40,7 +40,7 @@
          "description": "i18n(window_gate_mod:entities.construction.embrasure.embrasure_ghost.description)",
          "icon": "file(embrasure.png)",
          "category": "window",
-         "material_tags": "wood portal crafted"
+         "material_tags": "stone portal crafted"
       }
    }
 }

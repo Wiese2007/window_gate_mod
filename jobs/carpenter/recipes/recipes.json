@@ -8,7 +8,7 @@
             },
             "wooden_double_gate" : {
                "recipe" : "file(wooden_double_gate_recipe.json)"
-            },
+            }, 
             "reinforced_double_gate" : {
                "recipe" : "file(reinforced_double_gate_recipe.json)"
             },
@@ -21,14 +21,14 @@
             "fenestra_small_w" : {
                "recipe" : "file(fenestra_small_w_recipe.json)"
             },
+            "fenestra_large_w" : {
+               "recipe" : "file(fenestra_large_w_recipe.json)"
+            },
             "big_2" : {
                "recipe" : "file(big_2_recipe.json)"
             },
             "big_1" : {
                "recipe" : "file(big_1_recipe.json)"
-            },
-            "fenestraladenblau" : {
-               "recipe" : "file(fenestraladenblau_recipe.json)"
             },
             "big_2_small" : {
                "recipe" : "file(big_2_small_recipe.json)"

@@ -6,10 +6,9 @@
    "flavor": "i18n(window_gate_mod:jobs.mason.recipes.big_1_s_recipe.flavor)",
    "portrait": "/window_gate_mod/entities/construction/big_1_s/big_1_s.png",
    "workshop"    : "stonehearth:mason:workbench", 
-   "level_requirement": 0,
    "ingredients": [
       {
-         "material": "wood resource",
+         "material": "stone resource",
          "count": 1
       }
    ],

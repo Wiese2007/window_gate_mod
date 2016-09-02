@@ -19,7 +19,7 @@
          "description": "i18n(window_gate_mod:entities.construction.stonegate_a.stonegate_a_ghost.description)",
          "icon": "file(stonegate_a.png)",
          "category": "door",
-         "material_tags": "wood portal crafted"
+         "material_tags": "stone portal crafted"
       }
    }
 }

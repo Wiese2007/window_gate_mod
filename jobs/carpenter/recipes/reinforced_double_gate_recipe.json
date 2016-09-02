@@ -6,7 +6,6 @@
    "flavor": "i18n(window_gate_mod:jobs.carpenter.recipes.reinforced_double_gate_recipe.flavor)",
    "portrait": "/window_gate_mod/entities/construction/reinforced_double_gate/reinforced_double_gate.png",
    "workshop"    : "stonehearth:carpenter:workbench", 
-   "level_requirement": 1,
    "ingredients": [
       {
          "material": "wood resource",

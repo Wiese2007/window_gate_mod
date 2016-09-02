@@ -212,7 +212,13 @@
          "big_1_s": {
             "big_1_s_ghost": {
                "description": "A Large Window",
-               "display_name": "Big Window"
+               "display_name": "Big Stone Window"
+            }
+         },
+         "big_1_s_small": {
+            "big_1_s_small_ghost": {
+               "description": "A Small Stone 4x4 Window",
+               "display_name": "Small Stone Window"
             }
          },
          "big_2": {
@@ -278,13 +284,13 @@
          "fenestra_large_s": {
             "fenestra_large_s_ghost": {
                "description": "3x5 Window",
-               "display_name": "Large Fenestra Window"
+               "display_name": "Large Stone Fenestra Window"
             }
          },
-         "big_1_s_small": {
-            "big_1_s_small_ghost": {
-               "description": "A Large Stone 4x4 Window",
-               "display_name": "Big Window"
+         "fenestra_large_w": {
+            "fenestra_large_w_ghost": {
+               "description": "3x5 Window",
+               "display_name": "Large Fenestra Window"
             }
          }
       }

@@ -1,12 +1,11 @@
 {
    "type": "recipe",
    "work_units": 3,
-   "recipe_name": "i18n(Spiros_window_mod:jobs.mason.recipes.schiessscharte_recipe.recipe_name)",
-   "description": "i18n(Spiros_window_mod:jobs.mason.recipes.schiessscharte_recipe.description)",
-   "flavor": "i18n(Spiros_window_mod:jobs.mason.recipes.schiessscharte_recipe.flavor)",
-   "portrait": "/Spiros_window_mod/entities/construction/schiessscharte/schiessscharte.png",
+   "recipe_name": "i18n(window_gate_mod:jobs.mason.recipes.embrasure_recipe.recipe_name)",
+   "description": "i18n(window_gate_mod:jobs.mason.recipes.embrasure_recipe.description)",
+   "flavor": "i18n(window_gate_mod:jobs.mason.recipes.embrasure_recipe.flavor)",
+   "portrait": "/window_gate_mod/entities/construction/embrasure/embrasure.png",
    "workshop"    : "stonehearth:mason:workbench", 
-   "level_requirement": 0,
    "ingredients": [
       {
          "material": "stone resource",
@@ -15,7 +14,7 @@
    ],
    "produces": [
       {
-         "item": "Spiros_window_mod:schiessscharte"
+         "item": "window_gate_mod:embrasure"
       }
    ]
 }
