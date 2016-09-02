@@ -6,6 +6,7 @@
    "flavor": "i18n(window_gate_mod:jobs.mason.recipes.embrasure_recipe.flavor)",
    "portrait": "/window_gate_mod/entities/construction/embrasure/embrasure.png",
    "workshop"    : "stonehearth:mason:workbench", 
+   "level_requirement" : 1,
    "ingredients": [
       {
          "material": "stone resource",

@@ -6,6 +6,7 @@
    "flavor": "i18n(window_gate_mod:jobs.carpenter.recipes.big_1_recipe.flavor)",
    "portrait": "/window_gate_mod/entities/construction/big_1/big_1.png",
    "workshop"    : "stonehearth:carpenter:workbench", 
+   "level_requirement" : 1,
    "ingredients": [
       {
          "material": "wood resource",

@@ -6,6 +6,7 @@
    "flavor": "i18n(window_gate_mod:jobs.mason.recipes.stonegate_a_recipe.flavor)",
    "portrait": "/window_gate_mod/entities/construction/stonegate_a/stonegate_a.png",
    "workshop"    : "stonehearth:mason:workbench", 
+   "level_requirement" : 2,
    "ingredients": [
       {
          "uri": "stonehearth:resources:iron:ore",

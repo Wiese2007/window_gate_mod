@@ -6,6 +6,7 @@
    "flavor": "i18n(window_gate_mod:jobs.mason.recipes.fenestra_medium_s_recipe.flavor)",
    "portrait": "/window_gate_mod/entities/construction/fenestra_medium_s/fenestra_medium_s.png",
    "workshop"    : "stonehearth:mason:workbench", 
+   "level_requirement" : 1,
    "ingredients": [
       {
          "material": "stone resource",
