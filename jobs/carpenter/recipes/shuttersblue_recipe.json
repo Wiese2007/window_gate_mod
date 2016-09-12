@@ -1,8 +1,8 @@
 {
    "type": "recipe",
    "work_units": 3,
-   "recipe_name": "i18n(window_gate_mod:jobs.carpenter.recipes.shuttersblue.recipe_name)",
-   "description": "i18n(window_gate_mod:jobs.carpenter.recipes.shuttersblue.description)",
+   "recipe_name": "i18n(window_gate_mod:jobs.carpenter.recipes.shuttersblue_recipe.recipe_name)",
+   "description": "i18n(window_gate_mod:jobs.carpenter.recipes.shuttersblue_recipe.description)",
    "flavor": "i18n(window_gate_mod:jobs.carpenter.recipes.shuttersblue.flavor)",
    "portrait": "/window_gate_mod/entities/construction/shuttersblue/shuttersblue.png",
    "workshop"    : "stonehearth:carpenter:workbench", 
